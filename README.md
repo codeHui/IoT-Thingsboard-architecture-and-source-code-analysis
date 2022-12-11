@@ -8,3 +8,6 @@ https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis
 
 
 [**Thingsboard 微服务-分布式-设备控制的数据流-架构分析（有架构图）**](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/blob/main/articles/microservice-architecture.md)
+
+
+[Thingsboard 微服务-分布式-设备控制的数据流-架构分析（有架构图）](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/blob/main/articles/microservice-architecture.md)
