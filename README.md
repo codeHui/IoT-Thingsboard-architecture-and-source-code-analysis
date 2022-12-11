@@ -1,5 +1,5 @@
 # IoT-Thingsboard-architecture-and-source-code-analysis
-对IoT服务器设计感兴趣的请先star，长期更新与维护。该blog不只是Thingsboard，Thingsboard的文章中也会包含很多IoT服务器通用设计的想法和思考。
+对IoT服务器设计感兴趣的欢迎先Star支持🐵，长期更新与维护。该blog不只是Thingsboard，Thingsboard的文章中也会包含很多IoT服务器通用设计的想法和思考。
 
 
 
@@ -8,4 +8,4 @@
 高并发下，IoT异步（queue或mqtt）转同步（http）的java代码实现（待更新，2周内）
 
 thingsboard actor源码分析（待更新，2周内）
-
+thingsboard mqtt实现分析（待更新，2周内）
