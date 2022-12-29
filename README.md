@@ -7,6 +7,7 @@
 * [**高并发下，IoT异步（queue或mqtt）转同步（http）的java代码实现**](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E9%AB%98%E5%B9%B6%E5%8F%91%E4%B8%8B%EF%BC%8C%EF%BC%88IoT%EF%BC%89%E5%BC%82%E6%AD%A5%EF%BC%88%E5%A6%82queue%E3%80%81mqtt%EF%BC%89%E8%BD%AC%E5%90%8C%E6%AD%A5%EF%BC%88%E5%A6%82http%EF%BC%89%E7%9A%84java%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)  
 
 * thingsboard actor源码分析（待更新）
+* thingsboard 规则引擎实现分析（待更新）
 
 ## Thingsboard部分源码分析
 * [消息队列 kafka topic 设计](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-kafka-topic-%E8%AE%BE%E8%AE%A1)  
