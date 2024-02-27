@@ -10,7 +10,7 @@
 * thingsboard 规则引擎实现分析（待更新）
 * [Thingsboard 图表数据统计-部分源码简单分析](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E5%9B%BE%E8%A1%A8%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E9%83%A8%E5%88%86%E6%BA%90%E7%A0%81%E7%AE%80%E5%8D%95%E5%B1%95%E7%A4%BA)
 
-## Thingsboard部分源码或设计相关分析
+## Thingsboard 部分源码或设计
 * [消息队列 kafka topic 设计](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-kafka-topic-%E8%AE%BE%E8%AE%A1)  
 * [Thingsboard Netty Mqtt 实现](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-Netty-Mqtt-%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90)
 * [在Thingboard如何打印mqtt入口日志](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E5%9C%A8Thingboard%E5%A6%82%E4%BD%95%E6%89%93%E5%8D%B0mqtt%E5%85%A5%E5%8F%A3%E6%97%A5%E5%BF%97)
