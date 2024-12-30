@@ -15,7 +15,7 @@
 * [Thingsboard Netty Mqtt 实现](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-Netty-Mqtt-%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90)
 * [在Thingboard如何打印mqtt入口日志](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E5%9C%A8Thingboard%E5%A6%82%E4%BD%95%E6%89%93%E5%8D%B0mqtt%E5%85%A5%E5%8F%A3%E6%97%A5%E5%BF%97)
 
-## Thingsboard二次开发方案
+## Thingsboard 二次开发方案
 * [Thingsboard 实现黑暗模式 Dark Mode](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E5%AE%9E%E7%8E%B0%E9%BB%91%E6%9A%97%E6%A8%A1%E5%BC%8F-Dark-Mode)  
 * [基于iframe页面嵌套的Thingsboard二次开发方案](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E5%9F%BA%E4%BA%8Eiframe%E9%A1%B5%E9%9D%A2%E5%B5%8C%E5%A5%97%E7%9A%84Thingsboard%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%96%B9%E6%A1%88)
 * [Thingsboard单体部署Docker去除内置PostgreSQL(使用外部PostgreSQL)](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard%E5%8D%95%E4%BD%93%E9%83%A8%E7%BD%B2Docker%E5%8E%BB%E9%99%A4%E5%86%85%E7%BD%AEPostgreSQL(%E4%BD%BF%E7%94%A8%E5%A4%96%E9%83%A8PostgreSQL))  
