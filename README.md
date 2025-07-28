@@ -25,6 +25,7 @@
 * [外部博客链接](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E5%A4%96%E9%83%A8%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5)
 
 ## Thingsboard 收费版
+* [ThingsBoard Professional Edition (收费版) 配置经验](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-kafka-topic-%E8%AE%BE%E8%AE%A1](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/ThingsBoard-Professional-Edition-(%E6%94%B6%E8%B4%B9%E7%89%88)-%E9%85%8D%E7%BD%AE%E7%BB%8F%E9%AA%8C) 
 * [ThingsBoard Professional Edition (收费版) 配置经验](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-kafka-topic-%E8%AE%BE%E8%AE%A1](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/ThingsBoard-Professional-Edition-(%E6%94%B6%E8%B4%B9%E7%89%88)-%E9%85%8D%E7%BD%AE%E7%BB%8F%E9%AA%8C)
   
 [欢迎讨论区留言](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/discussions)
