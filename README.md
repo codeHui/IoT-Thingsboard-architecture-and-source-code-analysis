@@ -23,5 +23,8 @@
 * [利用Thingsboard规则引擎（或Kafka流计算），根据电表上报的累计总电量，生成每天的耗电量统计](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E5%88%A9%E7%94%A8Thingsboard%E8%A7%84%E5%88%99%E5%BC%95%E6%93%8E%EF%BC%88%E6%88%96Kafka%E6%B5%81%E8%AE%A1%E7%AE%97%EF%BC%89%EF%BC%8C%E6%A0%B9%E6%8D%AE%E7%94%B5%E8%A1%A8%E4%B8%8A%E6%8A%A5%E7%9A%84%E7%B4%AF%E8%AE%A1%E6%80%BB%E7%94%B5%E9%87%8F%EF%BC%8C%E7%94%9F%E6%88%90%E6%AF%8F%E5%A4%A9%E7%9A%84%E8%80%97%E7%94%B5%E9%87%8F%E7%BB%9F%E8%AE%A1)
 * [Thingsboard SCADA, 工业物联网SCADA监控web版, 数字孪生Digital Twin](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-SCADA,-%E5%B7%A5%E4%B8%9A%E7%89%A9%E8%81%94%E7%BD%91SCADA%E7%9B%91%E6%8E%A7web%E7%89%88,-%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9FDigital-Twin)  
 * [外部博客链接](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/%E5%A4%96%E9%83%A8%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5)
+
+## Thingsboard 收费版
+* [ThingsBoard Professional Edition (收费版) 配置经验]([https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/Thingsboard-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-kafka-topic-%E8%AE%BE%E8%AE%A1](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/wiki/ThingsBoard-Professional-Edition-(%E6%94%B6%E8%B4%B9%E7%89%88)-%E9%85%8D%E7%BD%AE%E7%BB%8F%E9%AA%8C))
   
 [欢迎讨论区留言](https://github.com/codeHui/IoT-Thingsboard-architecture-and-source-code-analysis/discussions)
